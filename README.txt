@@ -1,3 +1,6 @@
+E-Commerce Website
+
+
 **************Web Development Project******************
 DESCRIPTION: This is an e-commerce website 
 
@@ -6,11 +9,14 @@ DESCRIPTION: This is an e-commerce website
 _____________________________________________Folder Structure__________________________________________________
 	
 	
-	E-Commerce Project/
+	E-Commerce/
 	├── css/ (contains all the css files)
 	│    ├── bootstrap.css
 	│    ├── bootstrap.min.css
 	│    └── index.css
+	|__ database ( contains sql file )
+	|    |
+	|    |__ ecommerce.sql
 	├── fonts/ (contains glyphicons)
 	│    ├── glyphicons-halflings-regular.eot
 	│    ├── glyphicons-halflings-regular.svg
@@ -44,10 +50,10 @@ _____________________________________________Folder Structure___________________
 
 ____________________________________________SETUP_________________________________________________________________________________________				
 1.) Start the WAMP server.
-2.) Open the phpMyAdmin and create a database "lifestylestore". 
-3.) Import the lifestylestore.sql file present in the zip folder.
-4.) Open the htdocs folder in the xampp folder. Copy paste the folder lifestylestore.
-5.) Open the browser (chrome), type localhost/lifestylestore and you should see the index page of the website.
+2.) Open the phpMyAdmin and create a database "ecommerce". 
+3.) Import the ecommerce.sql file.
+4.) Open the htdocs folder in the xampp folder. Copy paste the folder ecommerce.
+5.) Open the browser (chrome), type localhost/ecommerce and you should see the index page of the website.
 
 *******************************************************************************************************************************************
 
