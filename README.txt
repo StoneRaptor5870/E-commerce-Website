@@ -48,13 +48,13 @@ _____________________________________________Folder Structure___________________
 	├──  signup_script.php
 	└──  success.php
 
-____________________________________________SETUP_________________________________________________________________________________________				
+____________________________________________SETUP___________________________________________________________				
 1.) Start the WAMP server.
 2.) Open the phpMyAdmin and create a database "ecommerce". 
 3.) Import the ecommerce.sql file.
 4.) Open the htdocs folder in the xampp folder. Copy paste the folder ecommerce.
 5.) Open the browser (chrome), type localhost/ecommerce and you should see the index page of the website.
 
-*******************************************************************************************************************************************
+*************************************************************************************************************
 
 
